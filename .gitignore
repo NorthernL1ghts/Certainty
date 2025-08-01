@@ -1,0 +1,14 @@
+.idea/
+test/out/
+test/tests
+cmake-build-*
+
+# Windows stuff
+.vs/
+*.exe
+*.ilk
+*.pdb
+
+
+*vs/
+*vscode/
